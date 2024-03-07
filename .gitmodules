@@ -1,0 +1,3 @@
+[submodule "source/git-pro"]
+	path = source/git-pro
+	url = https://github.com/lsc9/git-pro.git
